@@ -29,7 +29,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:openneuroscience@gmail.com".
-
+- icon: github
+  icon_pack: fab
+  link: https://github.com/gwinch97
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
