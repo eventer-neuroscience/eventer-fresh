@@ -67,4 +67,8 @@ subtitle = ""
 
 Add full text here later, just include links to the [Quickstart Page](https://eventerneuro.netlify.app/quickstart/), the [Repository Page](https://eventerneuro.netlify.app/repository/) and the [Download Page](https://eventerneuro.netlify.app/downloads/) for now. 
 
+Or with staticrefs  
+
+Add full text here later, just include links to the {{% staticref "quickstart/" %}}quickstart page{{% /staticref %}}, {{% staticref "repository/" %}}the repository page{{% /staticref %}} and the {{% staticref "downloads/" %}}download page{{% /staticref %}} for now. 
+
 </div>
