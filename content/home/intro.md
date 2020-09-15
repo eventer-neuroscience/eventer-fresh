@@ -71,7 +71,7 @@ Eventer enables rapid, reproducible and unbiased analysis of synaptic events. To
 
 Don't hesitate to [**get in touch**](#contact) if you would like to suggest/comment/ask us anything!. 
 
-Thanks, 
+Thanks,  
 Team Eventer 
 
 </div>
