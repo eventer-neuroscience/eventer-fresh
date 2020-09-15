@@ -65,13 +65,6 @@ subtitle = ""
 
 <div align="justify">
 
-Welcome to the home of Eventer! 
-
-Eventer enables rapid, reproducible and unbiased analysis of synaptic events. To further aid in enhancing reproducability across laboratories, this repository has been established to enable sharing of models trained across a range of model systems. To contribute to this database please use this [**form**](https://forms.gle/nxSFXXfyzW8oiTso9). We will then format it for the database as soon as possible
-
-Don't hesitate to [**get in touch**](#contact) if you would like to suggest/comment/ask us anything!. 
-
-Thanks,  
-Team Eventer 
+Add full text here later, just include links to the [Quickstart Page](https://eventerneuro.netlify.app/quickstart/), the [Repository Page](https://eventerneuro.netlify.app/repository/) and the [Download Page](https://eventerneuro.netlify.app/downloads/) for now. 
 
 </div>
