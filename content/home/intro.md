@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Open Neuroscience"
-subtitle = "Aggregator & curation of open source neuroscience projects"
+title = "Eventer"
+subtitle = "Rapid, unbiased, reproducible analysis of synaptic events"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -29,11 +29,11 @@ subtitle = "Aggregator & curation of open source neuroscience projects"
   # gradient_end = "SkyBlue"
   
   # Background image.
-  #image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
-  #image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  #image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  #image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  #image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  # image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
   #text_color_light = true
@@ -65,16 +65,13 @@ subtitle = "Aggregator & curation of open source neuroscience projects"
 
 <div align="justify">
 
-Thanks for visiting our page.
+Welcome to the home of Eventer! 
 
+Eventer enables rapid, reproducible and unbiased analysis of synaptic events. To further aid in enhancing reproducability across laboratories, this repository has been established to enable sharing of models trained across a range of model systems. To contribute to this database please use this [**form**](https://forms.gle/nxSFXXfyzW8oiTso9). We will then format it for the database as soon as possible
 
-Contribute to this repository by adding your project using this [**form**](https://forms.gle/nxSFXXfyzW8oiTso9). We will revise it and add it to the page as soon as possible!
+Don't hesitate to [**get in touch**](#contact) if you would like to suggest/comment/ask us anything!. 
 
-
-
-All of our content is open to copy/replicate and improve. Go to our organization page on [GitHub](https://github.com/open-neuroscience/) to see more.
-
-
-Have a look around and [**get in touch**](#contact) if you would like to suggest/comment/ask us anything!. 
+Thanks, 
+Team Eventer 
 
 </div>
