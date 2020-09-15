@@ -17,6 +17,11 @@
   name = "Downloads"  # A link title for your page.
   url = "downloads/"  # The URL of your page.
   weight = 50  # The position of your page in the menu.
+    
+[[main]]
+  name = "Model Repository"  # A link title for your page.
+  url = "repository/"  # The URL of your page.
+  weight = 51  # The position of your page in the menu.
   
 [[main]]
   name = "Team"
