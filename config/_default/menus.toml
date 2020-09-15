@@ -7,7 +7,12 @@
   name = "Home"
   url = "#about"
   weight = 10
-
+  
+[[main]]
+  name = "My new page"  # A link title for your page.
+  url = "example/"  # The URL of your page.
+  weight = 50  # The position of your page in the menu.
+  
 [[main]]
   name = "Team"
   url = "#people"
