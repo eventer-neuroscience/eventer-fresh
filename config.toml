@@ -7,5 +7,5 @@
 # The actual configuration files are stored in the `config/_default/` folder.
 
 # Taxonomies.
-#[taxonomies]
-#  author = "authors"
+[taxonomies]
+  author = "authors"
