@@ -68,6 +68,7 @@ Here are some notes on your preload settings ...
 
 Here is a picture of your pre load settings ...  
 
-<td> <img src="img/Screenshot 2020-08-18 at 16.09.13.png.jpg" alt="Drawing" style="width: 530px;"/> </td>
+{{< figure src="img/Screenshot 2020-08-18 at 16.09.13.png.jpg" title="A caption" numbered="true" >}}
+
 </div>
 
