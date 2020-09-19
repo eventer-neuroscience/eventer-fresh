@@ -20,9 +20,9 @@ subtitle = ""
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-
+  text_color_light = false
   # Background color.
-  color = ""
+  color = "#FFFFFF	"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
