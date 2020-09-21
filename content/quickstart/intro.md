@@ -61,8 +61,11 @@ subtitle = ""
 
 +++
 
-<br>
 
+<center>
+  Getting Started in Eventer
+</center>
+  
 <div align="justify">
 
 This page will aid the user in getting started and quickly analysing their data without the need for a detailed explanation of each feature. 
