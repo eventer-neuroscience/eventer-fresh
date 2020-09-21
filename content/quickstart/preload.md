@@ -60,7 +60,7 @@ subtitle = ""
 
 image:
   placement: 1
-  caption: "Photo by [Academic](https://github.com/eventer-neuroscience/eventer-fresh/blob/master/content/quickstart/img/Screenshot%202020-08-18%20at%2016.09.13.png)"
+  caption: "Photo by [Academic](https://github.com/eventer-neuroscience/eventer-fresh/blob/master/content/quickstart/img/Screenshot%202020-08-18%20at%2016.09.13.png/)"
   focal_point: "Center"
   preview_only: false
   alt_text: An optional description of the image for screen readers.
