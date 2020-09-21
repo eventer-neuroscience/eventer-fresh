@@ -65,7 +65,5 @@ subtitle = ""
 Here is a picture of your pre load settings ...  
 ![Preload settings in Eventer](/img/Screenshot 2020-08-18 at 16.09.13.png)  
 
-#{{< figure src="img/Screenshot 2020-08-18 at 16.09.13.png" title="A caption" numbered="true" >}}
-
 </div>
 
