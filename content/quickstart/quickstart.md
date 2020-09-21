@@ -99,16 +99,16 @@ Changing the box on the right from ‘Current’ to ‘Batch’ will tell Evente
 
 ## Accessing your results
 After running the analysis, Eventer will open multiple figures. A quick summary of results is also available in the summary tab as shown here. The rest of your results will be saved in the root directory in the previously specified output folder.
-{{< figure src="img/Screenshot 2020-08-18 at 16.09.55.png" title="Running your analysis in Eventer" numbered="true" >}}
+{{< figure src="img/Screenshot 2020-08-18 at 16.09.55.png" title="Accessing your results in Eventer" numbered="true" >}}
 
 # Training a machine learning model
 Eventer also includes an option to enable users train a machine learning model against an exemplary set of data. To do this, open the detection tab and change the event criterion to ‘Machine Learning’ before ticking the ‘Training Mode’ tickbox. Running the analysis now will open up a window that will ask users to classify events as either events or not. A pop-up window will allow the user to also name their model. Move through the events selecting or deselecting events where appropriate until all events are classified then click complete.
 When selecting whether an event is indeed actually an event, it is important that the green line shown above is exactly at the start of where you perceive the event to be otherwise the model may become inaccurate.
-{{< figure src="img/Screenshot 2020-08-18 at 16.10.00.png" title="Running your analysis in Eventer" numbered="true" >}}
+{{< figure src="img/Screenshot 2020-08-18 at 16.10.00.png" title="Training a machine learning model in Eventer" numbered="true" >}}
 
 ## Using your model
 To then use the trained model on subsequent analysis, the user can then deselect the training mode and select load model in the detection tab. The trained model will be stored in the eventer output folder as a .mlm file as shown here. This model is now available for use on a new dataset, distinct from the set it was trained on. Upon completing your analysis with your machine learning model, you will be presenting with a plot showing the out-of-bag classification error which can briefly be described as a measure of the prediction error using bootstrap aggregating (bagging) to subsample data samples used for training. The prediction error should then stabilize well before reaching 128 trees (which is the default number of trees used by the implementation of Random Forests in Eventer).
-{{< figure src="img/Screenshot 2020-08-18 at 16.10.05.png" title="Running your analysis in Eventer" numbered="true" >}}
+{{< figure src="img/Screenshot 2020-08-18 at 16.10.05.png" title="Using your machine learning model in Eventer" numbered="true" >}}
 
 </div>
 
