@@ -62,17 +62,16 @@ subtitle = ""
 +++
 <center> 
 
-  **Getting Started in Eventer**
-  [Manual](Eventer_Manual.pdf)
+  # Getting Started in Eventer
 
 </center>
 
 <div align="justify">
 
-This page will aid the user in getting started and quickly analysing their data without the need for a detailed explanation of each feature.  
+This page will aid the user in getting started and quickly analysing their data without the need for a detailed explanation of each feature.  For full documentation, please see the [user manual](Eventer_Manual.pdf).  
 **Tip:** *Hover the mouse cursor over features of the GUI for tooltips.*
 
-Please see the youtube video below for a walkthrough also
+Alternatively, please see the youtube video below for a guided walkthrough;
 {{< youtube gaRo8SijUtg >}}
 
 </div>
