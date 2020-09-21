@@ -62,14 +62,13 @@ subtitle = ""
 +++
 <center> 
 
-  # Downloads
+  # Download & Installation
 
 </center>
 
 <div align="justify">
 
-Please follow the below link to download the latest version of Eventer.  
-All downloads are currently hosted by sourceforge.
+Please follow the below link to download the latest version of Eventer. All downloads are currently hosted by sourceforge.
 
 </div>
 
