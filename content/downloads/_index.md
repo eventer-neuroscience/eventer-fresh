@@ -16,4 +16,4 @@ header:
 
 Add your *content* here...
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+<button name="button" onclick="http://www.google.com/">Click me</button>
