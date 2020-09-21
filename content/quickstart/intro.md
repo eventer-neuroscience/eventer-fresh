@@ -65,6 +65,10 @@ subtitle = ""
 
 <div align="justify">
 
-Add text here about how the quickstart guide works, and a link to the manual
+This page will aid the user in getting started and quickly analysing their data without the need for a detailed explanation of each feature. 
+**Tip:** *Hover the mouse cursor over features of the GUI for tooltips.*
+
+Please see the youtube video below for a walkthrough also
+{{< youtube gaRo8SijUtg >}}
 
 </div>
