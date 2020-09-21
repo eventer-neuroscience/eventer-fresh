@@ -59,14 +59,14 @@ subtitle = ""
 #{{% /alert %}}
 +++
 
-<br>
+#<br>
 
-<div align="justify">
-Here are some notes on your preload settings ... 
+#<div align="justify">
+#Here are some notes on your preload settings ... 
 
 Here is a picture of your pre load settings ...  
+![Preload settings in Eventer](/img/Screenshot 2020-08-18 at 16.09.13.png)
+#{{< figure src="img/Screenshot 2020-08-18 at 16.09.13.png" title="A caption" numbered="true" >}}
 
-{{< figure src="img/Screenshot 2020-08-18 at 16.09.13.png" title="A caption" numbered="true" >}}
-
-</div>
+#</div>
 
