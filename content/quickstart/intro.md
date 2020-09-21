@@ -60,6 +60,12 @@ subtitle = ""
 
 
 +++
+<center> 
+
+  **Getting Started in Eventer**
+  [Manual](Eventer_Manual.pdf)
+
+</center>
 
 <div align="justify">
 
