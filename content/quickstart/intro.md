@@ -63,12 +63,12 @@ subtitle = ""
 
 
 <center>
-  Getting Started in Eventer
+  **Getting Started in Eventer**
 </center>
   
 <div align="justify">
 
-This page will aid the user in getting started and quickly analysing their data without the need for a detailed explanation of each feature. 
+This page will aid the user in getting started and quickly analysing their data without the need for a detailed explanation of each feature.  
 **Tip:** *Hover the mouse cursor over features of the GUI for tooltips.*
 
 Please see the youtube video below for a walkthrough also
