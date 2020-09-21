@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
 title = ""
 subtitle = ""
@@ -71,7 +71,7 @@ The installer for both Windows and Linux operating systems will detect whether t
 ### Mac OSX
 For Mac OSX the .dmg contains both the application and an install.txt file containing instructions to download and install the correct runtime. The version of the MATLAB runtime used to compile the standalone application is provided in the name of the installer.
 
-## Tested Operating Systems
+### Tested Operating Systems
 
 Windows | Linux | Mac OS
 ---------- | ---------- | ------ 
