@@ -65,6 +65,6 @@ subtitle = ""
 
 <div align="justify">
 
-Add text here about how to utilise the repository and links to google forms etc
+Add text here about how to utilise the repository and links to the [google form](https://forms.gle/bhwnMsPS7gqAGqev9/)
 
 </div>
