@@ -74,5 +74,6 @@ This page will aid the user in getting started and quickly analysing their data 
 Alternatively, please see the youtube video below for a guided walkthrough;
 {{< youtube gaRo8SijUtg >}}
 
+Just another dummy test [link](https://github.com/eventer-neuroscience/eventer-fresh/)
 
 </div>
