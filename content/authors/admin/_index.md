@@ -4,13 +4,13 @@ name: Eventer
 
 # Username (this should match the folder name)
 authors:
-- admin
+- "admin"
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Rapid, unbiased, reproducible analysis of synaptic events
+role: 
 
 # Organizations/Affiliations
 #organizations:
@@ -45,8 +45,8 @@ email: "eventer.neuroscience@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Creator
+user_groups:
+- "Creator"
 ---
 
 <div align="justify">

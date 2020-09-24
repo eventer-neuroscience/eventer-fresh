@@ -8,4 +8,4 @@
 
 # Taxonomies.
 [taxonomies]
-  author = "authors"
+  author = "content/authors/"

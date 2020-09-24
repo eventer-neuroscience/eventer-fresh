@@ -4,7 +4,7 @@
 
 # Username (this should match the folder name)
 authors: 
-- andre-maia-chagas
+- "achagas"
 
 # Is this the primary user of the site?
 superuser: false
@@ -52,7 +52,7 @@ email: "a.maia-chagas@sussex.ac.uk"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team
+- "Team"
 
 
 ---
