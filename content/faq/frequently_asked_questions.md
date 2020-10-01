@@ -6,14 +6,14 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 67  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
-title = "Getting Started"
+title = "FAQs"
 subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -61,12 +61,19 @@ subtitle = ""
 
 +++
 
+
+
+* **How can I cite Eventer in my work?** 
+  * As you read this, a manuscript is in preperation. While the paper is being written, please cite as;  
+  * *Winchester, G., Liu, S., Steele, O.G., Aziz, W. and Penn, A.C. (2020) Eventer. Software for the detection of spontaneous synaptic events measured by electrophysiology or imaging (Version 1.0.1). http://doi.org/10.5281/zenodo.3991677*  
 <br>
+* **How can I load the ephysIO (`.phy`) file in Python?**
+  * See here for your answer when i write it ...   
+<br>  
+* **Why does my data look funny when I use MATLAB's *load* command to load my `.phy` file?** 
+  * See here for your answer when i write it ...   
+<br>
+* **Why is my Eventer slow to load?**  
+  * Eventer uses the Matlab runtime environment, which takes about as long as it takes for Matlab to load. In particular, Eventer tends to be slow to load for the first time following installation. Once Eventer has loaded, it should run fast so long as your computer has suitable specifications for running the [Matlab runtime](https://www.mathworks.com/products/compiler/matlab-runtime.html). It is not advisable to install Eventer or the Matlab runtime environment on a network drive since this will slow down the load time considerably.
 
-<div align="justify">
 
-
-## Take a look around the home of Eventer!  
-*Wait, you've not got Eventer yet?!* Quick, head to the {{% staticref "downloads/" %}}download page{{% /staticref %}} - you don't realise what you're missing out on! From there, we'd suggest using the {{% staticref "quickstart/" %}}quickstart guide{{% /staticref %}} to get you started using Eventer with your own data. Once you're done analysing your data, how about helping to share your knowledge? Navigate towards our {{% staticref "repository/" %}}model repository{{% /staticref %}} and enter your machine learning model into the repository enabling others to see how you analyse your data and enhancing reproducibility of data analysis! Lastly, if you're looking for help then head over to the {{% staticref "faq/" %}}support section{{% /staticref %}} and we'll do our best to get you on your way. Enjoy!
-
-</div>

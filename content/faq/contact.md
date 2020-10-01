@@ -2,11 +2,11 @@
 # Contact widget.
 widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
-title = "Get in touch"
-subtitle = ""
+title = "Anything else?"
+subtitle = "Get in touch directly"
 
 # Automatically link email and phone?
 autolink = true
@@ -21,4 +21,3 @@ email_form = 2
 [netlify]
   captcha = false  # Enable CAPTCHA challenge to reduce spam?
 +++
-
