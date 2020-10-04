@@ -69,9 +69,25 @@ subtitle = ""
 <div align="justify">
 
 This page will aid the user in getting started and quickly analysing their data without the need for a detailed explanation of each feature.  For full documentation, please see the [user manual](Eventer_Manual.pdf).  
-**Tip:** *Hover the mouse cursor over features of the GUI for tooltips.*
+
+**ProTip:** *Hover the mouse cursor over features of the GUI for tooltips.*
 
 Alternatively, please see the youtube video below for a guided walkthrough;
 {{< youtube gaRo8SijUtg >}}
+
+</div>
+
+<div align="center">
+
+**Eventer Tutorial Shortcuts**  
+*Opens in a new window*  
+[Presettings & Data Loading](https://www.youtube.com/watch?v=gaRo8SijUtg&t=10)  
+[Popup Graph & Template Fitting](https://www.youtube.com/watch?v=gaRo8SijUtg&t=150)  
+[Exclusion Zones](https://www.youtube.com/watch?v=gaRo8SijUtg&t=248)  
+[Detection Settings & Prefiltering](https://www.youtube.com/watch?v=gaRo8SijUtg&t=338)    
+[Output folder & Running your analysis](https://www.youtube.com/watch?v=gaRo8SijUtg&t=426)   
+[Viewing your results](https://www.youtube.com/watch?v=gaRo8SijUtg&t=635)    
+[Training a machine learning model](https://www.youtube.com/watch?v=gaRo8SijUtg&t=698)    
+[Using your machine learning for rapid analysis](https://www.youtube.com/watch?v=gaRo8SijUtg&t=930)   
 
 </div>
