@@ -67,13 +67,16 @@ subtitle = ""
   * As you read this, a manuscript is in preperation. While the paper is being written, please cite as;  
   * *Winchester, G., Liu, S., Steele, O.G., Aziz, W. and Penn, A.C. (2020) Eventer. Software for the detection of spontaneous synaptic events measured by electrophysiology or imaging (Version 1.0.1). http://doi.org/10.5281/zenodo.3991677*  
 <br>
+* **Why is my Eventer slow to load?**  
+  * Eventer uses the Matlab runtime environment, which takes about as long as it takes for Matlab to load. In particular, Eventer tends to be slow to load for the first time following installation. Once Eventer has loaded, it should run fast so long as your computer has suitable specifications for running the [Matlab runtime](https://www.mathworks.com/products/compiler/matlab-runtime.html). It is not advisable to install Eventer or the Matlab runtime environment on a network drive since this will slow down the load time considerably.  
+  
+<!-- 
+## FAQ's to be answered ##
+<br>
 * **How can I load the ephysIO (`.phy`) file in Python?**
   * See here for your answer when i write it ...   
 <br>  
 * **Why does my data look funny when I use MATLAB's *load* command to load my `.phy` file?** 
-  * See here for your answer when i write it ...   
+  * See here for your answer when i write it ...  
 <br>
-* **Why is my Eventer slow to load?**  
-  * Eventer uses the Matlab runtime environment, which takes about as long as it takes for Matlab to load. In particular, Eventer tends to be slow to load for the first time following installation. Once Eventer has loaded, it should run fast so long as your computer has suitable specifications for running the [Matlab runtime](https://www.mathworks.com/products/compiler/matlab-runtime.html). It is not advisable to install Eventer or the Matlab runtime environment on a network drive since this will slow down the load time considerably.
-
-
+--!>

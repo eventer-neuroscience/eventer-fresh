@@ -65,6 +65,17 @@ subtitle = ""
 
 <div align="justify">
 
-Add text here about how to utilise the repository and links to the [google form](https://forms.gle/bhwnMsPS7gqAGqev9/)
+This page hosts our model repository where you are able to upload your model, along with a brief description of the circumstances you trained it in, to enable sharing with others. 
+
+<center>  
+
+**Currently this page is under construction**    
+*Please check back later*  
+
+</center>  
+
+<!-- 
+[google form](https://forms.gle/bhwnMsPS7gqAGqev9/)
+!-->  
 
 </div>

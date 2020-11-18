@@ -1,6 +1,6 @@
 ---
 title: 'Model Name'
-date: 2020-10-13
+date: 2020-11-18
 authors: ['admin']
 layout: post
 categories: ['Acute Brain Slice','mEPSC','NMDAR','AMPAR']
