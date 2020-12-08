@@ -53,7 +53,10 @@ user_groups:
 
 Eventer is a programme designed for the detection of spontaneous synaptic events measured by electrophysiology or imaging. The software combines deconvolution for detection, and variable length template matching approaches for screening out false positive events. Eventer also includes a machine learning-based approach allowing users to train a model to implement their ‘expert’ selection criteria across data sets without bias. Sharing models allows users to implement consistent analysis procedures. The software is coded in MATLAB, but has been compiled as standalone applications for Windows, Mac and Linux.   
 
-Eventer enables rapid, reproducible and unbiased analysis of synaptic events. To further aid in enhancing reproducability across laboratories, this repository has been established to enable sharing of models trained across a range of model systems.
+<!--- 
+## TO BE INCLUDED ONCE THE REPO IS ONLINE ## 
+Eventer enables rapid, reproducible and unbiased analysis of synaptic events. To further aid in enhancing reproducability across laboratories, this repository has been established to enable sharing of models trained across a range of model systems. 
+--->
 
 Don’t hesitate to [get in touch](/faq#contact) if you would like to suggest/comment/ask us anything!.
 
