@@ -10,7 +10,7 @@ tags: ['Other']
 This is just an example model to demonstrate the functionality of the repository. I may also consider adding references my model has been used in here. 
 
 If you're familiar with *Markdown Syntax*, feel free to use it here.
-## Model Downlaod:
+## Model Download:
 [Download Model](https://drive.google.com/file/d/1cP8s2prrVCia4jj6NG7GsYsnOmj2TqjT/view?usp=sharing)
 ## Author(s):
 ### Author & Affiliation
