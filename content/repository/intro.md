@@ -69,13 +69,14 @@ This page hosts our model repository where you are able to upload your model, al
 
 <center>  
 
-**Currently this page is under construction**    
-*Please check back later*  
+**Upload your model**    
+*[Click Here](https://formfaca.de/sm/L5ebOVGRU)*  
 
 </center>  
 
 <!-- 
 [google form](https://forms.gle/bhwnMsPS7gqAGqev9/)
+https://formfaca.de/sm/L5ebOVGRU
 !-->  
 
 </div>

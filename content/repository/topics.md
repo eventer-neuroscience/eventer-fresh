@@ -2,7 +2,7 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true # Activate this widget? true/false
 weight = 2 # Order that this section will appear.
 
 title = "Model Repository"
@@ -29,84 +29,44 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
+    
   [[content.filter_button]]
-    name = "Animal electrophysiology"
-    tag = "Animal ephys"
+    name = "mIPSC"
+    tag = "mIPSC"
   [[content.filter_button]]
-    name = "Backlog"
-    tag = "Topic"
+    name = "mEPSC"
+    tag = "mEPSC"
   [[content.filter_button]]
-    name = "Benchtop"
-    tag = "Benchtop"
-  
+    name = "NMDAR"
+    tag = "NMDAR"
   [[content.filter_button]]
-    name = "Behaviour"
-    tag = "Behaviour"
+    name = "AMPAR"
+    tag = "AMPAR"   
+  [[content.filter_button]]
+    name = "GABA"
+    tag = "GABA"    
+    
   [[content.filter_button]]
     name = "Calcium Imaging"
-    tag = "Calcium Imaging"
+    tag = "Calcium Imaging"  
   [[content.filter_button]]
-    name = "Computers"
-    tag = "Computers"
+    name = "Electrophysiology"
+    tag = "Electrophysiology" 
+    
   [[content.filter_button]]
-    name = "Computer Clusters"
-    tag = "Computer clusters"
+    name = "Acute Brain Slice"
+    tag = "Acute Brain Slice"
   [[content.filter_button]]
-    name = "Data Analysis"
-    tag = "Data analysis"
-  [[content.filter_button]]
-    name = "Data Repositories"
-    tag = "Database"
-  [[content.filter_button]]
-    name = "Electric Stimulation"
-    tag = "Electric"
-  [[content.filter_button]]
-    name = "Fluorescence"
-    tag = "Fluorescence"
-  [[content.filter_button]]
-    name = "Hardware"
-    tag = "Hardware"
-
-
-
-  [[content.filter_button]]
-    name = "Human Neuroscience"
-    tag = "Human Neuroscience"
-
-
-  [[content.filter_button]]
-    name = "Human electrophysiology"
-    tag = "Human ephys"
-
-  [[content.filter_button]]
-    name = "Microscopes"
-    tag = "Microscope"
-  [[content.filter_button]]
-    name = "Microscopes software"
-    tag = "Microscopes software"
-  [[content.filter_button]]
-    name = "Optogenetics"
-    tag = "Optogenetics"   
-  [[content.filter_button]]
-    name = "Prosthetics"
-    tag = "Prosthetics"
-  [[content.filter_button]]
-    name = "Simulations"
-    tag = "Simulation"
-  [[content.filter_button]]
-    name = "Software"
-    tag = "Software"
-  [[content.filter_button]]
-    name = "Tutorials and learning portals"
-    tag = "Learning"
- 
-
+    name = "Organotypic Slice Culture"
+    tag = "Organotypic Slice Culture"
+[[content.filter_button]]
+    name = "Cell Culture"
+    tag = "Cell Culture"  
     
   [[content.filter_button]]
     name = "Other"
     tag = "Other"
-
-
+    
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"

@@ -69,6 +69,9 @@ subtitle = ""
 <br>
 * **Why is my Eventer slow to load?**  
   * Eventer uses the Matlab runtime environment, which takes about as long as it takes for Matlab to load. In particular, Eventer tends to be slow to load for the first time following installation. Once Eventer has loaded, it should run fast so long as your computer has suitable specifications for running the [Matlab runtime](https://www.mathworks.com/products/compiler/matlab-runtime.html). It is not advisable to install Eventer or the Matlab runtime environment on a network drive since this will slow down the load time considerably.  
+<br> 
+* **What do i do with the error message `unable to locate file of variable 'orifile'`?** 
+  * Please ensure that there are no files named `temp` on your filepath. Eventer is unable to function normally if this is the case. The file, `temp`, is filetype non-specific.   
   
 <!-- 
 ## FAQ's to be answered ##
