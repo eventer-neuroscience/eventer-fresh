@@ -76,7 +76,8 @@ For Mac OSX the .dmg contains both the application and an install.txt file conta
 Windows | Linux | Mac OS
 ---------- | ---------- | ------ 
 Windows 7     | Ubuntu 14.04.6 Trusty  Tahr     | High Sierra (10.13.6)
-Windows 10     |        | Catalina (10.15.6) 
+Windows 10     |    Ubuntu 20.0.4 (Focal Fossa)    | Catalina (10.15.6) 
+-- | -- | Big Sur (11.2.3)
 
 
 </div>

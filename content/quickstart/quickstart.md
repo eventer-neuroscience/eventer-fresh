@@ -62,7 +62,7 @@ subtitle = ""
 <div align="justify">
 
 ## Preload settings  
-Choose your channel and split settings. Only some data formats allow for multiple recording channels, so unless you need to, the channel feature can be left at 1. Split should only be used if your data varies in length or if you want to split a continuous recording wave into smaller chunks for parallel processing.
+Choose your channel and split settings. Only some data formats allow for multiple recording channels, so unless you need to, the channel feature can be left at 1. Split should only be used if your data varies in length or if you want to split a continuous recording wave into smaller chunks for parallel processing.  
 {{< figure src="img/Screenshot 2020-08-18 at 16.09.13.png" title="Pre-load settings in Eventer" numbered="true" >}}
 
 
@@ -81,6 +81,8 @@ It is possible that excess noise is still present in your data that may not have
 ## Defining your event template
 In the template tab you can set a template event for the software to compare your data against. This can be set manually if the rise and decay parameters of your events are known, or can be done through opening the ‘Pop-up Graph’ as mentioned before and selecting the button highlighted here. This will allow the user to select two points; one before and one after the event of interest. The time constants will then be in the boxes below the highlighted button and should then be copied into boxes above before selecting the button ‘Apply to all waves’.
 It is worth locating an event in the ‘Pop-up Graph’ before defining the time constants and that the sign of your events is correctly stated in the detection panel.
+
+Once happy with your settings you may want to save these as 'Presets' to enable quicker analysis in the future. These can be loaded in the very first step "Preload Settings" and we've provided a couple of examples for you [here](https://sourceforge.net/projects/eventer/files/Example_presets/).  
 {{< figure src="img/Screenshot 2020-08-18 at 16.09.35.png" title="Defining your event template in Eventer" numbered="true" >}}
 
 ## Excluding regions from your analysis
