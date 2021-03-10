@@ -29,7 +29,7 @@ role: Samuel Liu
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:openneuroscience@gmail.com".
+  link: mailto:eventer.neuroscience@gmail.com
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -39,5 +39,3 @@ email: ""
 user_groups:
 - "Team"
 ---
-
-Text here later

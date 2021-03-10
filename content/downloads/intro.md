@@ -68,8 +68,8 @@ subtitle = ""
 
 <div align="justify">
 
-Please follow the below link to download the latest version of Eventer. All downloads are currently hosted by sourceforge.
-
+Please follow the below link to download the latest version of Eventer. All downloads are currently hosted by sourceforge.  
+Don't forget to click "**join the group**" [here](https://groups.google.com/g/eventer-neuroscience-announcements) to keep up to date with version releases and important information!
 </div>
 
 <center> 
@@ -77,3 +77,4 @@ Please follow the below link to download the latest version of Eventer. All down
 # [Download](https://sourceforge.net/projects/eventer/files/latest/download/)
 
 </center>
+

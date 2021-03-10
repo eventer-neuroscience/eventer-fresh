@@ -56,7 +56,7 @@ Eventer is a programme designed for the detection of spontaneous synaptic events
 Eventer enables rapid, reproducible and unbiased analysis of synaptic events. To further aid in enhancing reproducability across laboratories, this repository has been established to enable sharing of models trained across a range of model systems. 
 
 
-Don’t hesitate to [get in touch](/faq#contact) if you would like to suggest/comment/ask us anything!.
+Don’t hesitate to [get in touch](/faq#contact) if you would like to suggest/comment/ask us anything and don't forget to click "**join the group**" [here](https://groups.google.com/g/eventer-neuroscience-announcements) to keep up to date with version releases and important information!
 
 Thanks,  
 Team Eventer

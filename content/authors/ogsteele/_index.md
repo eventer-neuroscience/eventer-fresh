@@ -27,7 +27,7 @@ role: Oliver G. Steele
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:openneuroscience@gmail.com".
+  link: mailto:eventer.neuroscience@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ogsteele
@@ -44,4 +44,4 @@ user_groups:
 - "Team"
 ---
 
-Is this an example of some text here that will show on the page under the photos etc
+
