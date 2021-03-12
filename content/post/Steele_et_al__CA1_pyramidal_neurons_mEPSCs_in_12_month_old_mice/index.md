@@ -1,5 +1,5 @@
 ---
-title: 'Steele et al CA1 pyramidal neurons mEPSCs in 12 month old mice'
+title: 'Steele et al. CA1 pyramidal neurons mEPSCs in 12 month old mice'
 date: 2021-03-12
 authors: ['Steele O.G. at the University of Sussex']
 layout: post
