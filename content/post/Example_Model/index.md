@@ -11,7 +11,7 @@ This is just an example model to demonstrate the functionality of the repository
 
 If you're familiar with *Markdown Syntax*, feel free to use it here.
 ## Model Download:
-[Download Model](https://drive.google.com/file/d/1cP8s2prrVCia4jj6NG7GsYsnOmj2TqjT/view?usp=sharing)
+[Download Model](https://drive.google.com/file/d/1biD9Y-T3ObvlOMpHImaB6v5sOB66EJfJ/view?usp=sharing)
 ## Author(s):
 ### Author & Affiliation
 Eventer Admin, Team Eventer HQ

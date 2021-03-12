@@ -69,9 +69,12 @@ This page hosts our model repository where you are able to upload your model, al
 
 <center>  
 
+<h1 style="font-size:10"> 
+
 **Upload your model**    
 *[Click Here](https://formfaca.de/sm/L5ebOVGRU)*  
 
+</h1>
 </center>  
 
 <!-- 
