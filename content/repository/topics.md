@@ -56,6 +56,7 @@ subtitle = ""
   [[content.filter_button]]
     name = "Acute Brain Slice"
     tag = "Acute Brain Slice"
+    
   [[content.filter_button]]
     name = "Organotypic Slice Culture"
     tag = "Organotypic Slice Culture"

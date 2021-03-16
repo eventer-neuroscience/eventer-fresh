@@ -72,7 +72,7 @@ This page hosts our model repository where you are able to upload your model, al
 <h1 style="font-size:10"> 
 
 **Upload your model**    
-*[Click Here](https://formfaca.de/sm/L5ebOVGRU)*  
+*[Click Here](https://docs.google.com/forms/d/e/1FAIpQLSfW9zvF6tHluCOOAjSHe96Gqj1uVw0T9c9TQWVjCK-_Y8-6UQ/viewform?usp=sf_link)*  
 
 </h1>
 </center>  
