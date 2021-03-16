@@ -37,32 +37,30 @@ subtitle = ""
     name = "mEPSC"
     tag = "mEPSC"
   [[content.filter_button]]
-    name = "NMDAR"
-    tag = "NMDAR"
+    name = "sIPSC"
+    tag = "sIPSC"
   [[content.filter_button]]
-    name = "AMPAR"
-    tag = "AMPAR"   
-  [[content.filter_button]]
-    name = "GABA"
-    tag = "GABA"    
-    
+    name = "sEPSC"
+    tag = "sEPSC"   
   [[content.filter_button]]
     name = "Calcium Imaging"
     tag = "Calcium Imaging"  
   [[content.filter_button]]
-    name = "Electrophysiology"
-    tag = "Electrophysiology" 
-    
-  [[content.filter_button]]
     name = "Acute Brain Slice"
-    tag = "Acute Brain Slice"
-    
+    tag = "Acute brain slice"
   [[content.filter_button]]
-    name = "Organotypic Slice Culture"
-    tag = "Organotypic Slice Culture"
-[[content.filter_button]]
+    name = "Organotypic Slice"
+    tag = "Organotypic slice culture"
+  [[content.filter_button]]
     name = "Cell Culture"
-    tag = "Cell Culture"  
+    tag = "Dissociated cell culture"  
+  [[content.filter_button]]
+    name = "Organoid"
+    tag = "Organoid"  
+  [[content.filter_button]]
+    name = "iPSC"
+    tag = "iPSC derived neural culture"    
+    
     
   [[content.filter_button]]
     name = "Other"

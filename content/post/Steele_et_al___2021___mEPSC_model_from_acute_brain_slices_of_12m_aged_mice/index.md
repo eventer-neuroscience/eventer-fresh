@@ -1,44 +1,44 @@
 ---
-title: "Oli's mega model"
+title: 'Steele et al., 2021 - mEPSC model from acute brain slices of 12m aged mice'
 date: 2021-03-16
-authors: ['Oliver Steele']
+authors: ['O.G. Steele']
 layout: post
 categories: ['Acute brain slice','mEPSC']
 tags: ['Acute brain slice','mEPSC']
-published: false
+published: true
 ---
 ## Model Abstract:
-it rocks
+A model fitted to the fast component (AMPAR) of compound mEPSCs recorded from 12 month aged acute brain slices
 ## Model Download:
 [Download Model](
-https://drive.google.com/open?id=1njBSC6Qao60r5AoYS0vOMF1p9zBV6FFk
+https://drive.google.com/open?id=1UHJVvoNlW8xGhuyjsL0O7IUwKA1A_Oed
 )
 ## Presets Download:
 [Download Presets](
-https://drive.google.com/open?id=17EzSSw3kBIha7pS6bdEdAlb2GUJ7sSX5
+https://drive.google.com/open?id=1beCNQM5FVC_8woEz0I5NZKLck7p1qFwy
 )
 ## Author(s):
 ### Author
-Oliver Steele
+O.G. Steele
 ### Affiliation
 University of Sussex
 ### Contact
-NA
+o.steele@sussex.ac.uk
 ### Twitter
-NA
+@ogsteele
 ## Experimental Methodology:
 ### Preparation
 Acute brain slice
 ### Recording Type
 mEPSC
 ### Cell Type
-CA1 pyramidal neuron
+CA1 Pyramidal
 ### Recording Temperature (celsius)
-room temperature
+Room Temperature
 ### Intracellular Solution
-ceasium based
+Ceasium based ICS
 ### Extracellular Solution
-normal ACSF
+Standard aCSF as per Smithers et al., 2017 with following alteration (5 mM Ca, 0.02 mM Mg and 1 mM sodium pyruvate)
 ### Related DOI
 NA
 ***
