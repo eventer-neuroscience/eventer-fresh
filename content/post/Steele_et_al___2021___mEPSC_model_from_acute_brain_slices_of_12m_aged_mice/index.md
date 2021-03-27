@@ -6,6 +6,7 @@ layout: post
 categories: ['Acute brain slice','mEPSC']
 tags: ['Acute brain slice','mEPSC']
 published: true
+summary: A model fitted to the fast component (AMPAR) of compound mEPSCs recorded from 12 month aged acute brain slices
 ---
 ## Model Abstract:
 A model fitted to the fast component (AMPAR) of compound mEPSCs recorded from 12 month aged acute brain slices

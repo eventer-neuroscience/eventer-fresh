@@ -6,6 +6,7 @@ layout: post
 categories: ['Dissociated cell culture','mIPSC']
 tags: ['Dissociated cell culture','mIPSC']
 published: true
+summary: A model for detection of GABA(A) mIPSCs trained on data from DIV20-22 high-density hippocampal neurons, cultured from postnatal day 0 C57 mouse. Cells were treated with vehicle, haemolysate or blood plasma products for 1 week before recording.
 ---
 ## Model Abstract:
 A model for detection of GABA(A) mIPSCs trained on data from DIV20-22 high-density hippocampal neurons, cultured from postnatal day 0 C57 mouse. Cells were treated with vehicle, haemolysate or blood plasma products for 1 week before recording.

@@ -5,6 +5,7 @@ authors: ['Eventer Admin, Team Eventer HQ']
 layout: post
 categories: ['Other']
 tags: ['Other']
+summary: This is just an example model to demonstrate the functionality of the repository. I may also consider adding references my model has been used in here. If you're familiar with *Markdown Syntax*, feel free to use it here.
 ---
 ## Model Abstract:
 This is just an example model to demonstrate the functionality of the repository. I may also consider adding references my model has been used in here. 
