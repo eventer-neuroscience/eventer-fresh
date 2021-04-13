@@ -73,11 +73,16 @@ For Mac OSX the .dmg contains both the application and an install.txt file conta
 
 ### Tested Operating Systems
 
-Windows | Linux | Mac OS
----------- | ---------- | ------ 
-Windows 7     | Ubuntu 14.04.6 Trusty  Tahr     | High Sierra (10.13.6)
-Windows 10     |    Ubuntu 20.0.4 (Focal Fossa)    | Catalina (10.15.6) 
--- | -- | Big Sur (11.2.3)
+Eventer is known to be compatible with:  
+
+| Windows | Linux | Mac OS
+| ------------- | ------------- | -------------
+| Windows 7 | Ubuntu 14.04.6 Trusty  Tahr | Sierra (10.12) 
+| Windows 10 | Ubuntu 20.04 Focal  Fossa | High Sierra (10.13) 
+|  |  | Mojave (10.14) 
+|  |  | Catalina (10.15) 
+|  |  | Big Sur (11) 
+
 
 
 </div>

@@ -74,7 +74,7 @@ Don't forget to click "**join the group**" [here](https://groups.google.com/g/ev
 
 <center> 
 
-# [Download](https://sourceforge.net/projects/eventer/files/latest/download/)
+# [Download](https://sourceforge.net/projects/eventer/files/)
 
 </center>
 
