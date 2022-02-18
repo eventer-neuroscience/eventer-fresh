@@ -7,22 +7,22 @@
   name = "Home"
   url = "#about"
   weight = 10
-  
+
 [[main]]
   name = "Quickstart Guide"  # A link title for your page.
   url = "quickstart/"  # The URL of your page.
   weight = 49  # The position of your page in the menu.
-  
+
 [[main]]
   name = "Downloads"  # A link title for your page.
   url = "downloads/"  # The URL of your page.
   weight = 52  # The position of your page in the menu.
-    
+
 [[main]]
   name = "Model Repository"  # A link title for your page.
   url = "repository/"  # The URL of your page.
   weight = 51  # The position of your page in the menu.
-  
+
 [[main]]
   name = "Support"
   url = "faq/"
